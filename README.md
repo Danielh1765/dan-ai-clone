@@ -37,5 +37,5 @@ Start with 1. Move to 2 if the face is not right.
 
 ## Rules
 
-- Keep this repo private. These are Dan's face photos.
+- This repo is public so AI tools can fetch the photos by URL.
 - Do not add other people's photos here.
